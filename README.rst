@@ -2,6 +2,23 @@
 kotti_link
 ==================
 
+|pypi|_
+|downloads_month|_
+|license|_
+|build status|_
+
+.. |pypi| image:: https://img.shields.io/pypi/v/kotti_link.svg?style=flat-square
+.. _pypi: https://pypi.python.org/pypi/kotti_link/
+
+.. |downloads_month| image:: https://img.shields.io/pypi/dm/kotti_link.svg?style=flat-square
+.. _downloads_month: https://pypi.python.org/pypi/kotti_link/
+
+.. |license| image:: https://img.shields.io/pypi/l/kotti_link.svg?style=flat-square
+.. _license: http://www.repoze.org/LICENSE.txt
+
+.. |build status| image:: https://img.shields.io/travis/j23d/kotti_link/master.svg?style=flat-square
+.. _build status: http://travis-ci.org/j23d/kotti_link
+
 Link content type for Kotti.
 
 `Find out more about Kotti`_
