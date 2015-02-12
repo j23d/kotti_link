@@ -1,8 +1,8 @@
 Changelog
 =========
 
-0.1a2 (Unreleased)
-------------------
+0.1 (2015-02-13)
+----------------
 
 - Fixes problem with copy (see issue #2).
   [davidemoro]
