@@ -13,10 +13,6 @@ def extra_principals(db_session):
     P[u'group:franksgroup'] = dict(name=u'group:franksgroup',
         title=u"Frank's Group")
 
-pytest_plugins = "kotti"
-
-from pytest import fixture
-
 
 @fixture(scope='session')
 def custom_settings():
