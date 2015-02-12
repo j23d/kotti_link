@@ -33,7 +33,7 @@ setup(
     author='Marco Scheidhuber',
     author_email='j23d@jusid.de',
     url='https://github.com/j23d/kotti_link',
-    license='BSD',
+    license='BSD-derived (http://www.repoze.org/LICENSE.txt)',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
