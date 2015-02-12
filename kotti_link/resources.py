@@ -16,7 +16,7 @@ class Link(Document):
         ForeignKey('documents.id'),
         primary_key=True
     )
-    link = Column(Unicode())
+    link = Column(Unicode(230))
 
     type_info = Document.type_info.copy(
         name=u'Link',
